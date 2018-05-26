@@ -10,7 +10,7 @@ A Clojurescript implementation of msgpack. This library's structure is *heavily*
 
 ## Improvements
 
-This library could use to be refactored. We just use this internally at [pkc.io](PKC), so, if there is demand, we are open to making improvements.
+This library could stand to be refactored. We just use this internally at [pkc.io](PKC), so, if there is demand (or interest) in making this more feature-rich, we are open to making improvements. Just be vocal, otherwise we'll keep it simple.
 
 ## Copyright
 Copyright © 2018
