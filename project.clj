@@ -1,7 +1,8 @@
 (defproject msgpack-cljs "0.1.0-SNAPSHOT"
   :description "A ClojureScript library for serializing and deserializing to msgpack."
   :plugins [[lein-cljsbuild "LATEST"]]
-  :license {:name "MIT"}
+  :license {:name "APACHE LICENSE, VERSION 2.0 (CURRENT)"
+            :url "https://www.apache.org/licenses/LICENSE-2.0"}
   :dependencies [[org.clojure/clojure "LATEST"]
                  [org.clojure/clojurescript "LATEST"]]
   :cljsbuild {:builds
