@@ -13,7 +13,7 @@ A Clojurescript implementation of msgpack. This library's structure is *heavily*
 This library could stand to be refactored. We just use this internally at [PKC](https://pkc.io), so, if there is demand (or interest) in making this more feature-rich, we are open to making improvements. Just be vocal, otherwise we'll keep it simple.
 
 ## Copyright
-Copyright 2018 PKC Security
+Copyright 2018 PKC
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
